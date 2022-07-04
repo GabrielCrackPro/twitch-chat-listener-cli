@@ -2,7 +2,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/GabrielCrackPro/twitch-chat-listener?style=for-the-badge)](https://github.com/GabrielCrackPro/twitch-listener-cli/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/GabrielCrackPro/twitch-chat-listener-cli/pulls)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-blueviolet?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com)
 
 CLI tool to listen to twitch chat built using <a href="http://tmijs.com">tmijs</a> library
 
