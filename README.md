@@ -7,6 +7,16 @@ CLI tool to listen to twitch chat built using <a href="http://tmijs.com">tmijs</
 
 - It can be used by anybody. The only thing you'll need is the channel name
 
+## Usage
+
+```
+npm i twitch-chat-listener-cli
+```
+
+```
+npm start
+```
+
 ## TODO
 
 - [x] Connect to twitch chat
