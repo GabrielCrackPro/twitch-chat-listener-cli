@@ -10,11 +10,11 @@ CLI tool to listen to twitch chat built using <a href="http://tmijs.com">tmijs</
 ## Usage
 
 ```
-npm i twitch-chat-listener-cli
+npm i -g twitch-chat-listener-cli
 ```
 
 ```
-npm start
+twitch-listener-cli
 ```
 
 ## TODO
