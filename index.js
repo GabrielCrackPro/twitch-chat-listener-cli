@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import chalk from "chalk";
 import tmi from "tmi.js";
 import prompt from "prompt";
@@ -42,7 +43,7 @@ prompt.get(
   }
 );
 
-function printMessage(user, tags, message) {
+function printMessage (user, tags, message) {
   if (user.color) {
     const color = chalk.hex(user.color);
     console.log(color.bold(`${user.name}: `) + chalk.white(message));
@@ -54,6 +55,6 @@ function printMessage(user, tags, message) {
     console.log(chalk.magenta.bold(mention), args.join(" "));
   }
 }
-function sleep(seconds) {
+function sleep (seconds) {
   execSync(`sleep ${seconds}`);
 }
